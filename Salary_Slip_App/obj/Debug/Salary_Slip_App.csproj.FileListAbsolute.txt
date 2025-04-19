@@ -1,0 +1,342 @@
+D:\Visual Programming\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\Visual Programming\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\Visual Programming\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb
+D:\Visual Programming\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.8\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.9\Salary_Slip_AppV0.9\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.10\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV0.12.1\Salary_Slip_AppV0.12\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV0.13\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\EnvDTE.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\stdole.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.SalaryReportViewer.resources
+D:\IKADO\Semester-4\Vispro\PROJECT\Salary_Slip_AppV1.0\Salary_Slip_App\obj\Debug\Salary_S.21D17FA3.Up2Date
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\EnvDTE.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\stdole.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.SalaryReportViewer.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_S.21D17FA3.Up2Date
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.1\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe.config
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Salary_Slip_App.exe
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Salary_Slip_App.pdb
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\EnvDTE.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\stdole.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.AssemblyReference.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.Properties.Resources.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddDepartmentForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddEmployeeForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddJobForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.AddPayslipForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.MainForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.LoginForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.Dashboard.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageDepartmentForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageEmployeeForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManageJobForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.ManagePayslipForm.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.View.SalaryReportViewer.resources
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.GenerateResource.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.csproj.CoreCompileInputs.cache
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_S.21D17FA3.Up2Date
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.exe
+D:\DUMB4SS\IKADO\Semester 04\Selasa - Visual Programming\PROYEK\Salary_Slip_AppV1.2\Salary_Slip_App\obj\Debug\Salary_Slip_App.pdb

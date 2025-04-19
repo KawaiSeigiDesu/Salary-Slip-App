@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|d:\\dumb4ss\\ikado\\semester 04\\selasa - visual programming\\proyek\\salary_slip_appv1.2\\salary_slip_app\\model\\payslipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:model\\payslipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\controller\\payslipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:controller\\payslipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|d:\\dumb4ss\\ikado\\semester 04\\selasa - visual programming\\proyek\\salary_slip_appv1.2\\salary_slip_app\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\view\\manageemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:view\\manageemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\view\\salaryreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:view\\salaryreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|d:\\dumb4ss\\ikado\\semester 04\\selasa - visual programming\\proyek\\salary_slip_appv1.2\\salary_slip_app\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\view\\managepayslipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:view\\managepayslipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\view\\managepayslipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:view\\managepayslipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\view\\manageemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:view\\manageemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\salaryslipappdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{45834EDA-65F0-4A09-A044-217993E9D9A9}|Salary_Slip_App.csproj|solutionrelative:salaryslipappdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayslipDAO.cs",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\Model\\PayslipDAO.cs",
+              "RelativeDocumentMoniker": "Model\\PayslipDAO.cs",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\Model\\PayslipDAO.cs",
+              "RelativeToolTip": "Model\\PayslipDAO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:02:35.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\Dashboard.cs",
+              "RelativeDocumentMoniker": "View\\Dashboard.cs",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\Dashboard.cs",
+              "RelativeToolTip": "View\\Dashboard.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:02:00.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-07-02T01:23:06.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Report1.rdlc",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\Report1.rdlc [Design]",
+              "RelativeToolTip": "Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-02T00:42:00.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalarySlipAppDataSet.xsd",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\SalarySlipAppDataSet.xsd",
+              "RelativeDocumentMoniker": "SalarySlipAppDataSet.xsd",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\SalarySlipAppDataSet.xsd",
+              "RelativeToolTip": "SalarySlipAppDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-07-02T00:33:13.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalaryReportViewer.cs [Design]",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\SalaryReportViewer.cs",
+              "RelativeDocumentMoniker": "View\\SalaryReportViewer.cs",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\SalaryReportViewer.cs [Design]",
+              "RelativeToolTip": "View\\SalaryReportViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:30:18.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageEmployeeForm.cs",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\ManageEmployeeForm.cs",
+              "RelativeDocumentMoniker": "View\\ManageEmployeeForm.cs",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\ManageEmployeeForm.cs",
+              "RelativeToolTip": "View\\ManageEmployeeForm.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA6wEEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:23:34.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagePayslipForm.cs",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\ManagePayslipForm.cs",
+              "RelativeDocumentMoniker": "View\\ManagePayslipForm.cs",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\ManagePayslipForm.cs",
+              "RelativeToolTip": "View\\ManagePayslipForm.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwDoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:23:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageEmployeeForm.cs [Design]",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\ManageEmployeeForm.cs",
+              "RelativeDocumentMoniker": "View\\ManageEmployeeForm.cs",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\ManageEmployeeForm.cs [Design]",
+              "RelativeToolTip": "View\\ManageEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:23:31.077Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagePayslipForm.cs [Design]",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\ManagePayslipForm.cs",
+              "RelativeDocumentMoniker": "View\\ManagePayslipForm.cs",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\View\\ManagePayslipForm.cs [Design]",
+              "RelativeToolTip": "View\\ManagePayslipForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:22:59.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayslipController.cs",
+              "DocumentMoniker": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\Controller\\PayslipController.cs",
+              "RelativeDocumentMoniker": "Controller\\PayslipController.cs",
+              "ToolTip": "D:\\DUMB4SS\\IKADO\\Semester 04\\Selasa - Visual Programming\\PROYEK\\Salary_Slip_AppV1.2\\Salary_Slip_App\\Controller\\PayslipController.cs",
+              "RelativeToolTip": "Controller\\PayslipController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAWwH8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:22:27.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SalarySlipApp" Class="SalarySlipAppDBMLDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\SalarySlipApp.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Salary_Slip_App.Properties.Settings" SettingsPropertyName="SalarySlipAppConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Department_Table" Member="Department_Tables">
+    <Type Name="Department_Table">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="managerId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Department_Table_Employee_Table" Member="Employee_Tables" ThisKey="id" OtherKey="deptID" Type="Employee_Table" />
+      <Association Name="Employee_Table_Department_Table" Member="Employee_Table" ThisKey="managerId" OtherKey="id" Type="Employee_Table" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Employee_Table" Member="Employee_Tables">
+    <Type Name="Employee_Table">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="phoneNumber" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="jobID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="deptID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Employee_Table_Department_Table" Member="Department_Tables" ThisKey="id" OtherKey="managerId" Type="Department_Table" />
+      <Association Name="Employee_Table_Payslip_Table" Member="Payslip_Tables" ThisKey="id" OtherKey="employeeID" Type="Payslip_Table" />
+      <Association Name="Department_Table_Employee_Table" Member="Department_Table" ThisKey="deptID" OtherKey="id" Type="Department_Table" IsForeignKey="true" />
+      <Association Name="Job_Table_Employee_Table" Member="Job_Table" ThisKey="jobID" OtherKey="id" Type="Job_Table" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Job_Table" Member="Job_Tables">
+    <Type Name="Job_Table">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="title" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="baseSalary" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="healthInsurance" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="employmentInsurance" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Association Name="Job_Table_Employee_Table" Member="Employee_Tables" ThisKey="id" OtherKey="jobID" Type="Employee_Table" />
+      <Association Name="Job_Table_Payslip_Table" Member="Payslip_Tables" ThisKey="id" OtherKey="jobIdBasic" Type="Payslip_Table" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Operator_Table" Member="Operator_Tables">
+    <Type Name="Operator_Table">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Operator_Table_Payslip_Table" Member="Payslip_Tables" ThisKey="id" OtherKey="operatorID" Type="Payslip_Table" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Payslip_Table" Member="Payslip_Tables">
+    <Type Name="Payslip_Table">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="employeeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="operatorID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="year" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="month" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="jobIdBasic" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="totalAllowance" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="totalDeduction" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="netSalary" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Employee_Table_Payslip_Table" Member="Employee_Table" ThisKey="employeeID" OtherKey="id" Type="Employee_Table" IsForeignKey="true" />
+      <Association Name="Job_Table_Payslip_Table" Member="Job_Table" ThisKey="jobIdBasic" OtherKey="id" Type="Job_Table" IsForeignKey="true" />
+      <Association Name="Operator_Table_Payslip_Table" Member="Operator_Table" ThisKey="operatorID" OtherKey="id" Type="Operator_Table" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DashboardView" Member="DashboardViews">
+    <Type Name="DashboardView">
+      <Column Name="Year" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Month" Type="System.String" DbType="NVarChar(4000)" CanBeNull="true" />
+      <Column Name="[Payslip Amount]" Member="Payslip_Amount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[Total Expense]" Member="Total_Expense" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DepartmentView" Member="DepartmentViews">
+    <Type Name="DepartmentView">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Manager" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EmployeeView" Member="EmployeeViews">
+    <Type Name="EmployeeView">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Department" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Job" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PayslipView" Member="PayslipViews">
+    <Type Name="PayslipView">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Employee" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Operator" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Year" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Month" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="[Base Salary]" Member="Base_Salary" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="[Total Allowance]" Member="Total_Allowance" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="[Total Deduction]" Member="Total_Deduction" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="[Net Salary]" Member="Net_Salary" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PayslipViewReport" Member="PayslipViewReports">
+    <Type Name="PayslipViewReport">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Employee" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Operator" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Year" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Month" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="BaseSalary" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="TotalAllowance" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="TotalDeduction" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="NetSalary" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.tryLogin" Method="tryLogin">
+    <Parameter Name="USER" Parameter="uSER" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="PASS" Parameter="pASS" Type="System.String" DbType="VarChar(255)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
